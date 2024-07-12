@@ -8,3 +8,4 @@ console.log(myname);
 console.log(myname1);
 console.log(mynumber);
 console.log(mynumber1);
+var age = 35;

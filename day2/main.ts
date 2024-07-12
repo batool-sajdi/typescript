@@ -13,4 +13,6 @@ console.log(myname)
 console.log(myname1)
 
 console.log(mynumber)
-console.log(mynumber1)
+console.log(mynumber1);
+
+let age:number=35;
