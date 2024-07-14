@@ -1,0 +1,10 @@
+var num1 = 12;
+var num2 = 6;
+var addetion = num1 + num2;
+var subterction = num1 - num2;
+var devsion = num1 / num2;
+var multiplycation = num1 * num2;
+console.log("addetion 12+3= ".concat(addetion));
+console.log("subterction 12-3= ".concat(subterction));
+console.log("devsion 12/3= ".concat(devsion));
+console.log("multiplycation 12*3 =".concat(multiplycation));
